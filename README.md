@@ -1,1 +1,2 @@
 # No-Show-Appointments
+In this project I did an analysis to find the relation between the patients who came and didn't came to their doctor in time , I also did an analysis to see if the patients with handicaps get them to show or to not show to their appointment , Then I  did an analysis to see if the age affects them to show or to not show , Lastly I analyzed the patients neighbourhoods to see if patients that live at a far neighbourhood that affects their showing to the appointment or not .
